@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 sudo apt update -y
 sudo apt install nginx -y
 # Create required folders if it doesn't exists
