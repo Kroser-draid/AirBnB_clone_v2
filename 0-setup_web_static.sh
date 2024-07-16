@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # script to deploy location 
 sudo apt update -y
 sudo apt install nginx -y
