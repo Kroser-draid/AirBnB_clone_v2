@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# script to deploy location 
 sudo apt update -y
 sudo apt install nginx -y
 # Create required folders if it doesn't exists
