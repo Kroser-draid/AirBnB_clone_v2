@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#the script to deploy a server for hbnb_static location
 sudo apt update -y
 sudo apt install nginx -y
 # Create required folders if it doesn't exists
