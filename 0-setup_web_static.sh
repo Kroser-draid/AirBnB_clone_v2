@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt update -y
-sudo apt install nginx
+sudo apt install nginx -y
 # Create required folders if it doesn't exists
 mkdir -p /data/
 mkdir -p /data/web_static/
